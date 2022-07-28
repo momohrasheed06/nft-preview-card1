@@ -1,0 +1,94 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body, html {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0A1931;
+}
+.container {
+    border: 1px solid #13273f;
+    border-radius: 10px;
+    box-shadow: black;
+    width: 23%;
+    height: 80vh;
+    text-align: center;
+    background-color: #13273f;
+    color: white;
+    margin: 6rem;
+}
+.contain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+#equii{
+    border: 1px solid #13273f;
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+}
+.main {
+    height: 80vh;
+}
+.logo {
+    width: 80%;
+    height: 50%;
+    margin-top: 25px;
+    margin-left: 1.8rem;
+}
+.equi {
+    text-align: left;
+    margin-left: 1.8rem;
+    color: aliceblue;
+}
+.equi p {
+    color: #3a6085;
+}
+.savicons {
+    display: flex;
+
+}
+.clock {
+    display: flex;
+}
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.footer {
+    display: flex;
+}
+#ether {
+    height: 3vh;
+    padding: 1rem;
+    margin: auto 0;
+}
+#clock {
+    height: 3vh;
+    padding: 1rem;
+}
+.clock {
+    margin-right: 1.8rem;
+}
+.clock p {
+    color: #3a6085;
+}
+p span {
+    color: lightseagreen;
+}
+hr {
+    width: 80%;
+    border-color: #3a6085;
+}
+#avatar {
+    width: 10%;
+    padding: .5rem;
+    margin-left: 1.8rem;
+}
+.footer span{
+    color: #3a6085;
+}
